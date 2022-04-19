@@ -1,22 +1,21 @@
 {
-    "name": "budget-tracker",
-    "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js",
-      "lite-server": "lite-server"
-    },
-    "author": "",
-    "license": "ISC",
-    "homepage": "https://github.com/lsmith32/challenge_budget_tracker#readme",
-    "dependencies": {
-      "compression": "^1.7.4",
-      "express": "^4.17.3",
-      "heroku": "^7.60.1",
-      "mongo": "^0.1.0",
-      "mongoose": "^5.5.15",
-      "morgan": "^1.9.1"
-    }
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "lite-server": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "heroku": "^7.60.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1"
   }
+}
